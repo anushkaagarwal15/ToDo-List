@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
     "version": "0.0.1",
-    "name": "ToDo-List",
+    "name":Logo.png",
     "action": {
         "default_popup": "index.html",
         "default_icon": "icon.png"
