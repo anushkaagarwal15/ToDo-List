@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
     "version": "0.0.1",
-    "name":Logo.png",
+    "name":logo.png",
     "action": {
         "default_popup": "index.html",
         "default_icon": "icon.png"
